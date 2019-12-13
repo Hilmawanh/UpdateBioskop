@@ -1,0 +1,460 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "username": "ida",
+      "password": "qwe"
+    },
+    {
+      "id": "3",
+      "username": "hapis",
+      "password": "1234"
+    },
+    {
+      "username": "jan",
+      "password": "cuk",
+      "role": "user",
+      "id": "etIHl-D"
+    },
+    {
+      "username": "kill",
+      "password": "asd",
+      "role": "user",
+      "id": "L8PpdhC"
+    }
+  ],
+  "studios": [
+    {
+      "id": 1,
+      "nama": "studio1",
+      "jumlahKursi": 260
+    },
+    {
+      "id": 2,
+      "nama": "studio2",
+      "jumlahKursi": 240
+    },
+    {
+      "id": 3,
+      "nama": "studio3",
+      "jumlahKursi": 220
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "title": "Jumanji: The Next Level",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157380448937451_287x421.jpg",
+      "sinopsis": "Dwayne Johnson, Karen Gillan, Jack Black dan Kevin Hart kembali ke Jumanji, keempatnya harus menyelamatkan salah satu teman mereka. Namun permainan telah berubah. Para pemain kini harus lebih berani melintasi rintangan ekstrem dan kembali dengan selamat dari permainan paling berbahaya di dunia.",
+      "sutradara": "Jake Kasdan",
+      "genre": "Advanture",
+      "trailers": "https://www.youtube.com/embed/rBxcF-r9Ibs",
+      "cast": "Dwayne Johnson, Karen Gillan, Jack Black, Kevin Hart, Nick Jonas, Danny DeVito, Danny Glover, Madison Iseman, Alex Wolff, Colin Hanks, Dania Ramirez, Awkwafina",
+      "durasi": "120",
+      "produksi": "RANS",
+      "jadwal": [
+        12,
+        14,
+        16,
+        18
+      ],
+      "trailer": "",
+      "studioId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Frozen II",
+      "sutradara": "Chris Buck, Jennifer Lee",
+      "durasi": 130,
+      "cast": [
+        "Kristen Bell, ",
+        "Idina Menzel, ",
+        "Jonathan Groff, ",
+        "Jason Ritter."
+      ],
+      "jadwal": [
+        10,
+        12,
+        14
+      ],
+      "sinopsis": "Anna, Elsa, Kristoff, Olaf dan Sven pergi meninggalkan Arendelle untuk melakukan perjalanan ke sebuah tempat asing dan penuh keajaiban. Mereka berangkat untuk menemukan asal usul kekuatan Elsa dan juga untuk menyelamatkan kerajaan mereka.",
+      "trailers": [
+        "https://www.youtube.com/embed/bwzLiQZDw2I"
+      ],
+      "studioId": 2,
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157250534676979_287x421.jpg",
+      "genre": "Animation, Adventure, Comedy.",
+      "produksi": "Walt Disney Pictures"
+    },
+    {
+      "id": "3",
+      "title": "Ford v Ferrari",
+      "sutradara": "James Mangold",
+      "durasi": 120,
+      "cast": [
+        "Matt Damon, ",
+        "Christian Bale, ",
+        "Jon Bernthal, ",
+        "Caitriona Balfe. "
+      ],
+      "jadwal": [
+        10,
+        12,
+        14,
+        18
+      ],
+      "sinopsis": "2 pemenang Academy Award, Matt Damon dan Christian Bale berperan di FORD v FERRARI, berdasarkan kisah nyata yang luar biasa dari Carroll Shelby (Damon), seorang perancang mobil visioner dari Amerika bersama Ken Miles (Bale), seorang pembalap Inggris yang tak kenal takut. Mereka bersama-sama berjuang menghadapi campur tangan perusahaan, hukum fisika, dan masalah pribadi mereka sendiri ketika membangun mobil balap revolusioner bagi Ford Motor Company untuk menantang mobil balap buatan Enzo Ferrari yang mendomniasi 24 Jam Le Mans di Perancis pada tahun 1966.",
+      "trailers": [
+        "https://www.youtube.com/embed/I3h9Z89U9ZA"
+      ],
+      "studioId": 1,
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/1572858859730_287x421.jpg",
+      "genre": "Action, Biography, Drama.",
+      "produksi": "20th Century Fox"
+    },
+    {
+      "id": "4",
+      "title": "Eggnoid",
+      "sutradara": "Naya Anandita",
+      "durasi": 122,
+      "cast": [
+        "Morgan Oey, ",
+        "Sheila Dara, ",
+        "Kevin Julio, ",
+        "Luna Maya, "
+      ],
+      "jadwal": [
+        10,
+        12,
+        14,
+        18
+      ],
+      "sinopsis": "Selama 2 tahun terakhir Ran dan Eggy telah menjadi sepasang sahabat yang tak terpisahkan. Ran yang dulu kesepian dan penuh dengan kesedihan, kini menjadi sosok yang lebih bahagia karena Eggy. Perasaan yang awalnya hanya sebagai sahabat, pelan-pelan berubah menjadi cinta. Sayangnya, Eggy bukan manusia biasa. Melainkan Eggnoid yang dikirim dari masa depan. Sebagai Eggnoid, Eggy memiliki aturan-aturan yang tidak boleh dilanggar. Kini, Eggy terancam dikirim pulang ke masa depan dan berpisah dengan Ran selamanya karena salah satu aturan besar yang tidak boleh ia langgar adalah jatuh cinta dan pacaran dengan Ran.",
+      "trailers": [
+        "https://www.youtube.com/embed/Y7maBc4tx6g"
+      ],
+      "studioId": 1,
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157356145959988_287x421.jpg",
+      "genre": "Drama, Sci-Fi.",
+      "produksi": "Visinema Pictures"
+    },
+    {
+      "id": "5",
+      "title": "Ip Man 4: The Finale",
+      "sutradara": "Wilson Yip",
+      "durasi": 130,
+      "cast": [
+        "Donnie Yen ",
+        "Scott Adkins ",
+        "Kwok-Kwan Chan ",
+        "Chris Collins",
+        "Vanness Wu ",
+        "Jim Liu ",
+        "Kent Cheng ",
+        "Nicola Stuart-Hill"
+      ],
+      "jadwal": [
+        10,
+        12,
+        14
+      ],
+      "sinopsis": "Ip Man (Donnie Yen) datang ke Amerika Serikat untuk membantu muridnya, Bruce Lee (Kwok-Kwan Chan) yang mendapat diskriminasi rasial karena membuka sekolah seni bela diri Wing Chun di negeri Paman Sam tersebut.",
+      "trailers": [
+        "https://www.youtube.com/embed/oCBGTCNJW2g"
+      ],
+      "studioId": 1,
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157492651970791_287x421.jpg",
+      "genre": "Action, Biography, Drama.",
+      "produksi": "iBullet Films, Mandarin Motion Pictures, Shanghai B"
+    },
+    {
+      "id": "6",
+      "title": "Cats",
+      "sutradara": "Tom Hooper",
+      "durasi": 123,
+      "cast": [
+        "James Corden ",
+        "Judi Dench ",
+        "Jason Derulo ",
+        "Idris Elba"
+      ],
+      "jadwal": [
+        10,
+        12,
+        14
+      ],
+      "sinopsis": "Sebuah adaptasi drama musikal yang kisahnya terinspirasi dari puisi Old Possums Book of Practical Cats karya T.S. Elliot. Bercerita tentang suku kucing bernama Jellicle yang pada suatu malam, mereka memutuskan untuk mengubah takdir hidupnya menjadi lebih baik dengan melewati Heaviside Layer.",
+      "trailers": [
+        "https://www.youtube.com/embed/U_O8DN1CY_E"
+      ],
+      "studioId": 1,
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157542998785544_287x421.jpg",
+      "genre": "Comedy, Drama, Family.",
+      "produksi": "Universal Pictures"
+    },
+    {
+      "id": "7",
+      "title": "Dignitate",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157527284143358_287x421.jpg",
+      "jadwal": [
+        10,
+        12,
+        14
+      ],
+      "sutradara": "Fajar Nugros",
+      "durasi": "129",
+      "cast": [
+        "Al Ghazali ",
+        "Caitlin Halderman ",
+        "Giorgino Abraham ",
+        "Teuku Ryzki ",
+        "Sophia Latjuba"
+      ],
+      "sinopsis": "Alfi seorang siswa di Sma Sanjaya yang terkenal sarkas, dingin, galak bahkan sampai mendapat julukan GGS alias ganteng-ganteng seram. Walau terkenal bukan sosok cowok menyenangkan namun tidak membuat siswi-siswi disana berhenti menyukainya, sayangnya Alfi hanya fokus pada prestasinya saja. Sampai datang seorang siswi baru bernama Alana yang periang, baik dan polos di sekolah Alfi. Karna kepribadiannya yang bertolak belakang jadi membuat Alfi dan Alana selalu bertengkar. Hingga keceriaan Alana seketika hilang saat hadir sosok lelaki bernama Regan yang tak lain adalah mantannya. Regan adalah anak jalanan yang tergabung dalam geng motor dan sangat disegani, dia juga mempunyai kehidupan yang sangat kelam.",
+      "trailers": [
+        "https://www.youtube.com/embed/v-94JfuzQAM"
+      ],
+      "studioId": 1,
+      "genre": "Drama.",
+      "produksi": "VISINEMA PICTURES"
+    },
+    {
+      "title": "Rumah Kentang: The Beginning",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157129577038373_287x421.jpg",
+      "sinopsis": "Adrian adalah seorang penulis novel horor yang buku-bukunya mulai ditinggalkan pembacanya. Untuk menulis novel terbarunya, ia bersama istrinya, Sophie, memutuskan kembali ke rumah masa kecil Sophie yang sudah lama tidak dikunjungi Sophie, sejak kedua orang tua Sophie tiba-tiba menghilang tanpa jejak. Kini ditemani Uwa-nya dan ketiga anaknya; Nina, Nala dan Bayu; Sophie akhirnya menginjakkan kaki kembali di rumah tersebut. Namun sesampainya mereka disana, gangguan demi gangguan segera menyerang mereka. Gangguan yang mereka hiraukan pada awalnya sampai akhirnya anak tertua mereka, Nina, tiba-tiba juga menghilang tanpa jejak. Kini demi mendapatkan kembali Nina, Sophie dan Adrian harus mencari tahu apa yang sebenarnya terjadi di rumah ini, sebuah rumah yang berdiri di perkebunan kentang orang tua Sophie, terlebih ketika Uwa diberitahu oleh seorang warga desa, Dadang, bahwa rumah itu lebih buruk dari apa yang mereka bayangkan. Bahwa tidak hanya Nina yang berada dalam bahaya. Tapi mereka semua.",
+      "sutradara": "Rizal Mantova",
+      "genre": "Horror.",
+      "durasi": "160",
+      "produksi": "RANS",
+      "jadwal": [
+        14,
+        18,
+        20
+      ],
+      "trailers": "",
+      "studioId": "1",
+      "id": "DjPtZ9N"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 2,
+      "movieId": 3,
+      "jadwal": 12,
+      "totalHarga": 50000,
+      "bayar": false
+    },
+    {
+      "userId": 3,
+      "movieId": 3,
+      "jadwal": 12,
+      "totalHarga": 50000,
+      "id": 2,
+      "bayar": false
+    },
+    {
+      "userId": 2,
+      "movieId": 3,
+      "jadwal": 12,
+      "totalHarga": 50000,
+      "id": 3,
+      "bayar": false
+    },
+    {
+      "userId": "3",
+      "movieId": "2",
+      "totalharga": 60000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 4
+    },
+    {
+      "userId": "3",
+      "movieId": "1",
+      "totalharga": 90000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 5
+    },
+    {
+      "userId": "3",
+      "movieId": "4",
+      "totalharga": 90000,
+      "jadwal": 10,
+      "bayar": false,
+      "id": 6
+    },
+    {
+      "userId": "etIHl-D",
+      "movieId": "2",
+      "totalharga": 60000,
+      "jadwal": 10,
+      "bayar": false,
+      "id": 7
+    },
+    {
+      "userId": "L8PpdhC",
+      "movieId": "4",
+      "totalharga": 90000,
+      "jadwal": 12,
+      "bayar": false,
+      "id": 8
+    },
+    {
+      "userId": "2",
+      "movieId": "1",
+      "totalharga": 90000,
+      "jadwal": 14,
+      "bayar": false,
+      "id": 9
+    },
+    {
+      "userId": "3",
+      "movieId": "1",
+      "totalharga": 90000,
+      "jadwal": 14,
+      "bayar": false,
+      "id": 10
+    }
+  ],
+  "ordersDetails": [
+    {
+      "id": 1,
+      "orderId": 1,
+      "row": 2,
+      "seat": 4
+    },
+    {
+      "id": 2,
+      "orderId": 1,
+      "row": 2,
+      "seat": 5
+    },
+    {
+      "id": 2,
+      "orderId": 2,
+      "row": 2,
+      "seat": 6
+    },
+    {
+      "orderId": 4,
+      "seat": 10,
+      "row": 4,
+      "id": 3
+    },
+    {
+      "orderId": 4,
+      "seat": 11,
+      "row": 3,
+      "id": 4
+    },
+    {
+      "orderId": 5,
+      "seat": 0,
+      "row": 0,
+      "id": 5
+    },
+    {
+      "orderId": 5,
+      "seat": 1,
+      "row": 0,
+      "id": 6
+    },
+    {
+      "orderId": 5,
+      "seat": 2,
+      "row": 0,
+      "id": 7
+    },
+    {
+      "orderId": 6,
+      "seat": 8,
+      "row": 0,
+      "id": 8
+    },
+    {
+      "orderId": 6,
+      "seat": 9,
+      "row": 0,
+      "id": 9
+    },
+    {
+      "orderId": 6,
+      "seat": 10,
+      "row": 0,
+      "id": 10
+    },
+    {
+      "orderId": 7,
+      "seat": 8,
+      "row": 0,
+      "id": 11
+    },
+    {
+      "orderId": 7,
+      "seat": 9,
+      "row": 0,
+      "id": 12
+    },
+    {
+      "orderId": 8,
+      "seat": 10,
+      "row": 0,
+      "id": 13
+    },
+    {
+      "orderId": 8,
+      "seat": 12,
+      "row": 3,
+      "id": 14
+    },
+    {
+      "orderId": 8,
+      "seat": 13,
+      "row": 0,
+      "id": 15
+    },
+    {
+      "orderId": 9,
+      "seat": 0,
+      "row": 0,
+      "id": 16
+    },
+    {
+      "orderId": 9,
+      "seat": 2,
+      "row": 0,
+      "id": 17
+    },
+    {
+      "orderId": 9,
+      "seat": 1,
+      "row": 0,
+      "id": 18
+    },
+    {
+      "orderId": 10,
+      "seat": 7,
+      "row": 0,
+      "id": 19
+    },
+    {
+      "orderId": 10,
+      "seat": 8,
+      "row": 0,
+      "id": 20
+    },
+    {
+      "orderId": 10,
+      "seat": 9,
+      "row": 0,
+      "id": 21
+    }
+  ]
+}
